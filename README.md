@@ -1,17 +1,20 @@
+# WEB BASED FILE EXPLORER FOR LINUX
+
 I developed this application for my System Programming course project.
 This project allows you to view files and directories in the Linux file system through a browser and perform operations on them.
 I used the MVC (Model-View-Controller) architecture to develop the project more efficiently.
 Since this is a school project, I had a limited time frame, and due to other projects I was working on, I was only able to complete the project to a certain point; some parts are still missing.
 
 The Linux commands the user can use:
-  ls
-  touch
-  mkdir
-  chown
-  cd
-  rm
-  echo
-  cat
+The Linux commands the user can use:
+- `ls`
+- `touch`
+- `mkdir`
+- `chown`
+- `cd`
+- `rm`
+- `echo`
+- `cat`
 
 Some screenshots from the application:
 ![Desktop](https://github.com/user-attachments/assets/c031b639-9247-4c92-834e-71040b0c0aa3)
