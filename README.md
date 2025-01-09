@@ -1,9 +1,3 @@
-
-Anladım, metninizi satır satır yazılacak şekilde düzelttim:
-
-
-İşte metninizin İngilizce çevirisi:
-
 I developed this application for my System Programming course project.
 This project allows you to view files and directories in the Linux file system through a browser and perform operations on them.
 I used the MVC (Model-View-Controller) architecture to develop the project more efficiently.
