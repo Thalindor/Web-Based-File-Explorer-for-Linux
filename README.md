@@ -1,4 +1,4 @@
-# WEB BASED FILE EXPLORER FOR LINUX
+# Web Based File Explorer for Linux
 
 I developed this application for my System Programming course project.
 This project allows you to view files and directories in the Linux file system through a browser and perform operations on them.
