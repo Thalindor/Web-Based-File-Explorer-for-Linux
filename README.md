@@ -10,14 +10,14 @@ I used the MVC (Model-View-Controller) architecture to develop the project more 
 Since this is a school project, I had a limited time frame, and due to other projects I was working on, I was only able to complete the project to a certain point; some parts are still missing.
 
 The Linux commands the user can use:
-# ls
-# touch
-# mkdir
-# chown
-# cd
-# rm
-# echo
-# cat
+  ls
+  touch
+  mkdir
+  chown
+  cd
+  rm
+  echo
+  cat
 
 Some screenshots from the application:
 ![Desktop](https://github.com/user-attachments/assets/c031b639-9247-4c92-834e-71040b0c0aa3)
